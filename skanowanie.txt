@@ -1,0 +1,500 @@
+q 10 trackow, 1 jet 39 gev  // q - rozpad hadronowy, m - rozpad muonowy, t - rozpad taonowy, x - tlo, h - wstrzymuje sie, qh - albo q albo h
+q 15 tr., 2 jety 42 38 gev
+q 9 tr, 2 jety 46 44
+q 23 tr, 2 jety 33 29
+q 24 tr, 2 jety zarejestrowane 32 14; jeden z trackow 14 gev moze byc trzecim jetem
+q 9 tr, 2 jety 43 42
+q 10 tr, 2 jety 46 45
+t 6 tr, 2 jety 21 11
+q 26 tr, 2 jety 36 31
+q 22 tr, widoczne 3 jety, zarejestrowane trzy, ale dwa w tym samym mniej wiecej kierunku 14 12 + 19
+q 17 tr, 2 j 41 21
+q 18 tr, 3 j 44 25 13
+q 14 tr, 2 j 39 24
+q
+q
+q
+q 3 j
+m 2 muony 46 46 gev, wspolliniowe
+q 15 tr, 2 j 39 19
+q
+q
+q
+q
+q 16tr, 1 zarejestrowany jet 39, ale widac drugi w trackach
+q 17tr, 3j 42 31 14
+qh 15tr, 0j, ale widac dwa wspolliniowe jety; ewentualnie mozna sie wstrzymac
+q
+x tlo, 3 tracki 3 3 1 gevy
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+qh 10tr, 1j 43
+q
+q
+q
+q
+q
+q
+q
+q
+q
+qt hadron lub taon 9 tr, 2j 45 40
+e 2 elektrony 46 43, Pt 31 29
+x 2tr 9 6 gev
+q
+q
+q
+q
+q
+q
+q
+x 3tr 44(pod malym katem) 2 10, mozliwe rozproszenie bhabha
+q
+q
+qh 22tr, 0j
+q
+q
+q
+q
+q
+q
+q
+q
+t 7tr, 2j 42 40
+q
+q
+q
+q
+x 3tr 1 6 1, 1j 33 pod malym katem
+x 4tr 3 1 3 1
+q
+q
+q
+q
+q
+q
+q
+e 2e 45 45, Pt 45 45
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+x 2e 45 46, Pt 15 14, male katy, rozproszenie
+q
+t 10tr, 2j 43 13, masy 5,9 0,0 czyli pewnie elektron,rozpad taonowy q+e
+e 2e 46 46, Pt 46 46
+q
+q
+qt
+q
+e 2e 46 46, 43 43 wysokie Pt
+e 2e wysokie pt
+q
+q
+e 2e wys pt
+q
+q
+x nic oprocz kilku wiez
+h 2tr, 2j 38 37, masy 0 0,45
+q
+q
+m 2m 46 46, Pt 44 44
+x 2tr 4 11
+q
+m 2m 46 46, Pt 38 38
+q
+q
+q
+q
+q
+q
+q
+q
+q
+x 4tr, male energie
+ex 1j 46 Pt 28 masa 0,0232; 1e 46 Pt 28
+q
+q
+q
+q
+q
+x zupelnie nic
+q
+x 2tr 4 6
+q
+q
+q
+q
+q
+q
+q
+m 2m 46 46, Pt 42 42
+x 1tr 9
+q
+q
+t 8tr, 1j 45 Pt 45; 1j 20 Pt 20 M 0,99 male energie i masa i malo trackow
+q
+q
+q
+q
+q
+h 4tr, 2j 52 50 Pt 24 23 M 0,8 2,5
+q
+e
+q
+q
+m
+q
+q
+q
+q
+x
+q
+q
+x
+q
+q
+q
+q 4j
+q
+q
+q
+q
+q
+q
+q
+q
+h 2m 22 42 Pt 19 19, brakuje energii, moze taon, ale niewspolliniowe
+h moze taon
+x
+q
+qh 19 ale zadnych jetow
+q
+q
+q
+q
+q
+th 4 tr, 2j 45 30 Pt 44 29 M 1,0 0,0; jet hadronowy i foton?
+e
+q
+q
+x
+q
+q
+q
+q
+x
+q
+q
+q
+q
+t 4tr, 1j 41 Pt 40, 1e 13 Pt 12
+e
+x 9tr, malo energii
+q
+q
+t 11tr 1j 39, 1m 25
+q
+x
+q
+q
+q
+q
+q
+x
+q
+q
+q
+q
+q
+q
+q
+h 1j 19 M 0,75, 1f 20
+q
+q
+e
+q
+q
+q
+q
+q
+q
+q
+x
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+h
+x
+tq malo energii
+q
+q
+q
+q
+q
+x
+q
+q
+q
+q
+q
+t 1j 39, 1e 20
+q
+q
+e
+q
+m
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+h 2tr, 2j 39 21 Pt 34 19 M 0,9 0,8
+q
+q
+q
+q
+q
+t 2tr, 1j 24, 1e 15
+q
+q
+q
+q
+q
+x
+q
+q
+q
+q
+m
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+x
+q
+q
+e
+q
+q
+q
+q
+q
+x
+x
+q
+q
+q
+q
+q
+x
+q
+q
+q
+x
+q
+q
+q
+q
+m
+qt 12tr, 0j, malo energii
+q
+q
+q
+q
+q
+e
+q
+x
+m
+q
+q
+q
+q
+q
+m
+q
+q
+q
+q
+q
+q
+q
+m jeden muon uznany za jet
+q
+q
+q
+q
+q
+q
+q
+th 8tr, 1j 38, malo energii
+q
+h 2tr, 1j 39, 1f 18
+q
+q
+q
+q
+q
+q
+q
+x
+h dokladnie dwa wspoliniowe jety 46 46 Pt 44 44 M 0 0; to mogq byc dwa fotony
+q
+q
+m
+q
+q
+q
+h 3tr, 1e 22, 1f 30
+q
+x
+q
+q
+x
+q
+h 2j 45 30
+qt 13tr, malo en
+q
+x
+m
+q
+q
+q
+x
+x
+q
+x
+q
+qt 14tr, malo en
+qt 13tr, malo en
+q
+x
+q
+q
+q
+xt 6tr
+q
+x
+q
+x 2tr 1 23
+q
+q
+q
+q
+q
+x
+e
+q
+q
+q
+q
+q
+t 2tr, 1j 31, 1e 21
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+x
+q
+q
+t 3tr, 2e 43 17
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+x
+q
+qx 7tr, 0j
+m
+q
+q
+q
+q
+q
+q
+q
+e
+q
+q
+x
+q
+q
+q
+q
+q
+th 3tr, 1e 23
+q
+q
+q
+q
+q
